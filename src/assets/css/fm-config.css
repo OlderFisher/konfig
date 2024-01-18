@@ -1,0 +1,80 @@
+.fm-bkg-greyblue {
+    background-color :#F4F6F8 ;
+}
+.fm-bkg-white {
+    background-color :#FFFFFF ;
+}
+
+*{
+    outline : none !important ;
+}
+
+input[type="radio"]:focus-visible {
+     outline-offset: 0!important;
+    outline : 0 !important;
+    box-shadow: none!important;
+}
+
+
+/*  Menues custom styles */
+.fm-menu-element{
+    height: 78px;
+    border: 1px solid #FFFFFF ;
+    background: #FFFFFF;
+    border-radius: 2px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.fm-menu-element:hover{
+    cursor: pointer;
+    -webkit-transform: translateY(-2px);
+    transform: translateY(-2px);
+    box-shadow: 6px 9px 10px rgba(40, 51, 55, 0.14);
+    transition: all 0.3s ease-in-out;
+}
+.fm-menu-elemen::after {
+    content: '';
+    position: absolute;
+    z-index: -1;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    border-radius: 2px;
+    box-shadow: 6px 9px 10px rgba(40, 51, 55, 0.14);
+    transition: opacity 0.3s ease-in-out;
+  }
+.fm-tab-menu-element{
+    height: 47px;
+    border: 1px solid #FFFFFF ;
+    background: #FFFFFF;
+    border-radius: 2px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.fm-tab-menu-element:hover{
+    cursor: pointer;
+    background-color: #D5F8EC;
+    border : 1px solid #D5F8EC;
+   
+}
+.item-active{
+	background-color: #D5F8EC;
+    border : 1px solid #D5F8EC;
+}
+.item-regular{
+	background-color: #FFFFFF;
+    border: 1px solid #FFFFFF ;
+}
+/*  Download link */
+a.fm-fnt-green-link{
+	color : #2FDAA0;
+}
+a.fm-fnt-green-link:hover{
+	color : #2BBB8A;
+	border-bottom:1px solid #2BBB8A;
+}
+

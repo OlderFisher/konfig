@@ -1,0 +1,158 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+    font-style: normal;
+}
+h1.entry-title{
+    display:none!important;
+}
+.fm-fnt-black{
+    font-family: 'Ubuntu', sans-serif;
+    font-style: normal;
+    color: #1C1C1C;
+}
+.fm-fnt-green{
+    font-family: 'Ubuntu', sans-serif;
+    font-style: normal;
+    color: #2FDAA0;
+}
+.fm-fnt-grey{
+    font-family: 'Ubuntu', sans-serif;
+    font-style: normal;
+    color: #969696;
+}
+.fm-fnt-grey-text{
+    font-family: 'Ubuntu', sans-serif;
+    font-style: normal;
+    color: #6C7682;
+}
+.fm-fnt-red{
+    font-family: 'Ubuntu', sans-serif;
+    font-style: normal;
+    color: #C54B48; 
+}
+/*  Icons ----------------------- */
+.fm-icon {
+    width: 32px;
+    height: 32px;
+}
+/*  weight 500 Fonts -----------  */
+.fm-fnt-500-34-36{
+    font-weight: 500;
+    font-size: 34px;
+    line-height: 36px;
+
+}
+
+.fm-fnt-500-34-22{
+    font-weight: 500;
+    font-size: 34px;
+    line-height: 22px;
+
+}
+.fm-fnt-500-28-22{
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 22px;
+}
+.fm-fnt-500-24-22{
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 22px;
+}
+.fm-fnt-500-23-26{
+    font-weight: 500;
+    font-size: 23px;
+    line-height: 26px;
+}
+
+.fm-fnt-500-20-22{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 22px;
+}
+.fm-fnt-500-16-26 {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+}
+.fm-fnt-500-16-22 {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 22px;
+    letter-spacing: -0.03em;
+}
+.fm-fnt-500-16-21 {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 21px;
+    letter-spacing: -0.03em;
+}
+/*  weight 400 Fonts -----------  */
+.fm-fnt-400-18-26 {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    text-transform: capitalize;
+}
+.fm-fnt-400-16-22 {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+}
+.fm-fnt-400-14-22 {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+}
+.fm-fnt-400-14-16 {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+}
+.fm-fnt-400-12-26{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 26px;
+}
+.fm-fnt-400-12-16{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+}
+
+/*  weight 300 Fonts -----------  */
+.fm-fnt-300-28-30{
+    font-weight: 300;
+    font-size: 28px;
+    line-height: 30px;
+}
+.fm-fnt-300-22-22{
+    font-weight: 300;
+    font-size: 22px;
+    line-height: 22px;
+}
+.fm-fnt-300-16-24{
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+}
+.fm-fnt-300-16-22{
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 22px;
+}
+.fm-fnt-300-14-22{
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 22px;
+}
+.fm-fnt-300-14-16{
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+}
+.fm-fnt-300-12-16{
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 16px;
+}
